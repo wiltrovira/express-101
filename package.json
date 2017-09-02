@@ -1,5 +1,5 @@
 {
-  "name": "hola-mundo-express",
+  "name": "express-101",
   "version": "0.1.0",
   "description": "hola mundo express",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wiltrovira/hola-mundo-express.git"
+    "url": "git+https://github.com/wiltrovira/express-101.git"
   },
   "keywords": [
     "hola",
@@ -18,9 +18,9 @@
   "author": "Wilt Rovira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wiltrovira/hola-mundo-express/issues"
+    "url": "https://github.com/wiltrovira/express-101/issues"
   },
-  "homepage": "https://github.com/wiltrovira/hola-mundo-express#readme",
+  "homepage": "https://github.com/wiltrovira/express-101#readme",
   "dependencies": {
     "express": "^4.15.4"
   }
